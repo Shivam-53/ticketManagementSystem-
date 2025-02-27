@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ticketManagementSystem_2", "ticketManagementSystem_2\ticketManagementSystem_2.csproj", "{20BB6F08-EA5C-4BA3-8FE8-9B30746C6082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20BB6F08-EA5C-4BA3-8FE8-9B30746C6082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BB6F08-EA5C-4BA3-8FE8-9B30746C6082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BB6F08-EA5C-4BA3-8FE8-9B30746C6082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BB6F08-EA5C-4BA3-8FE8-9B30746C6082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC176483-5B0E-4545-8E78-A4D2FE071C41}
+	EndGlobalSection
+EndGlobal
